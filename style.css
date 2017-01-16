@@ -1,7 +1,7 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
-  background-image: 'homepage.png';
+  background-image: url(homepage.png);
   background-repeat: repeat;
 }
 #wrapper {
