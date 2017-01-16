@@ -4,7 +4,7 @@ body {
   color: blue;
   background-image: url(homepage.png);
   background-repeat: repeat;
-  text-align: left;
+  text-align: justify;
 }
 #wrapper {
   width: 960px;
