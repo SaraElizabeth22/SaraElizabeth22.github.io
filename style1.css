@@ -12,8 +12,8 @@ body {
 }
 h1 {font-size: medium}
 h2 {font-size: medium}
-h3 {font-size: small}
-h4 {font-size: medium}
+h3 {font-size: medium; text-decoration:underline}
+h4 {font-size: medium; color:aqua}
 h5 {font-size: medium}
 h6 {font-size: medium}
 h7 {font-size: medium}
