@@ -10,9 +10,10 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
-h1 {font-size: 20}
-h2 {font-size: 20}
-h3 {font-size: 20}
-h4 {font-size: 20}
-h5 {font-size: 20}
-h6 {font-size: 20}
+h1 {font-size: medium}
+h2 {font-size: medium}
+h3 {font-size: small}
+h4 {font-size: medium}
+h5 {font-size: medium}
+h6 {font-size: medium}
+h7 {font-size: medium}
