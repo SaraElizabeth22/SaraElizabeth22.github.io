@@ -1,10 +1,22 @@
 body {
   font-family: 'Bree Serif', serif;
-  font-weight: 1000;
+  font-weight: 200;;
   color: blue;
   background-image: url(homepage.png);
   background-repeat: repeat;
-  text-align: justify;
+  text-align: left;
+}
+#wrapper {
+  width: 960px;
+  margin: 20px auto 20px auto;
+}
+body 1 {
+  font-family: 'Bree Serif', serif;
+  font-weight: 200;;
+  color: green;
+  background-image: url(page2.png);
+  background-repeat: repeat;
+  text-align: left;
 }
 #wrapper {
   width: 960px;
